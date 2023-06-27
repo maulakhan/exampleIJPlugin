@@ -1,3 +1,5 @@
+[Video](./sam-segmentation.mov.mov)
+
 This is an example Maven project implementing an ImageJ2 command.
 
 For an example Maven project implementing an **original ImageJ plugin**, see:
