@@ -1,4 +1,4 @@
-[Video](./sam-segmentation.mov.mov)
+[Video](./test1.mov)
 
 This is an example Maven project implementing an ImageJ2 command.
 
